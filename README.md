@@ -4,12 +4,14 @@
 
 NestJS REST API boilerplate for typical project
 
+
+## Quick install
+
+cp env.example .env
+
 ## Quick run
 
-```bash
-npm install
-
-npm run start:dev
+yarn run start:dev
 ```
 
 ## Links
@@ -20,8 +22,8 @@ npm run start:dev
 
 ```bash
 # unit tests
-npm run test
+npyarnm run test
 
 # e2e tests
-npm run test:e2e
+yarn run test:e2e
 ```
