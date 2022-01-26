@@ -7,10 +7,15 @@ NestJS REST API boilerplate for typical project
 
 ## Quick install
 
+```bash
 cp env.example .env
+
+yarn
+```
 
 ## Quick run
 
+```bash
 yarn run start:dev
 ```
 
